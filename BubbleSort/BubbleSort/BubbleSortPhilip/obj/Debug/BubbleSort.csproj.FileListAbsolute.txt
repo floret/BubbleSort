@@ -1,0 +1,8 @@
+F:\main\Folders\Cracks\Coding\C# files\GitHub\BubbleSort\BubbleSort\BubbleSort\BubbleSortPhilip\bin\Debug\BubbleSort.exe.config
+F:\main\Folders\Cracks\Coding\C# files\GitHub\BubbleSort\BubbleSort\BubbleSort\BubbleSortPhilip\bin\Debug\BubbleSort.exe
+F:\main\Folders\Cracks\Coding\C# files\GitHub\BubbleSort\BubbleSort\BubbleSort\BubbleSortPhilip\bin\Debug\BubbleSort.pdb
+F:\main\Folders\Cracks\Coding\C# files\GitHub\BubbleSort\BubbleSort\BubbleSort\BubbleSortPhilip\obj\Debug\BubbleSort.Form1.resources
+F:\main\Folders\Cracks\Coding\C# files\GitHub\BubbleSort\BubbleSort\BubbleSort\BubbleSortPhilip\obj\Debug\BubbleSort.Properties.Resources.resources
+F:\main\Folders\Cracks\Coding\C# files\GitHub\BubbleSort\BubbleSort\BubbleSort\BubbleSortPhilip\obj\Debug\BubbleSort.csproj.GenerateResource.Cache
+F:\main\Folders\Cracks\Coding\C# files\GitHub\BubbleSort\BubbleSort\BubbleSort\BubbleSortPhilip\obj\Debug\BubbleSort.exe
+F:\main\Folders\Cracks\Coding\C# files\GitHub\BubbleSort\BubbleSort\BubbleSort\BubbleSortPhilip\obj\Debug\BubbleSort.pdb
